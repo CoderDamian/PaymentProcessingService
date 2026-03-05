@@ -1,4 +1,4 @@
-# PaymentProcessingService
+# Payment Processing Service
 A Payment Processing API for an e-commerce platform.
 
 Clients (other services) will call your API to:
